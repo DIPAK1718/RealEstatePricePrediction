@@ -1,0 +1,58 @@
+# 📘 Project Log Book
+## Project: Real Estate Price Prediction
+
+---
+
+### 📅 Day 1
+- Selected project topic
+- Collected dataset from Kaggle
+
+### 📅 Day 2
+- Loaded dataset using Pandas
+- Checked shape, columns, missing values
+
+### 📅 Day 3
+- Handled missing values
+- Converted size column to BHK
+- Converted total_sqft into numeric
+
+### 📅 Day 4
+- Created price_per_sqft feature
+- Removed outliers using logical filtering
+
+### 📅 Day 5
+- Reduced location categories
+- Applied One-Hot Encoding
+
+### 📅 Day 6
+- Applied Linear Regression
+- Evaluated R² score
+
+### 📅 Day 7
+- Applied Random Forest
+- Improved accuracy
+
+### 📅 Day 8
+- Performed GridSearchCV tuning
+- Achieved R² ≈ 0.78
+
+### 📅 Day 9
+- Saved model using pickle
+- Created Streamlit app
+
+### 📅 Day 10
+- Tested app
+- Fixed errors
+- Prepared PPT
+
+---
+
+## 🔍 Challenges Faced
+- Handling missing values
+- Feature engineering complexity
+- Model accuracy improvement
+
+## ✅ Solutions
+- Used median for missing values
+- Applied One-Hot Encoding
+- Used GridSearchCV
