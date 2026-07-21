@@ -16,7 +16,7 @@ The project uses the Bengaluru Housing Dataset and implements data preprocessing
 * Outlier Detection & Removal 
 * Feature Engineering  
 * One-Hot Encoding
-* Machine Learning Model Training
+* Machine Learning Model Training 
 * Model Comparison
 * Streamlit Web Application
 * Real-Time House Price Prediction 
