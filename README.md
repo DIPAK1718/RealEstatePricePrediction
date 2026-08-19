@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
  
-This project predicts house prices based on features such as location, total square feet, BHK, bathrooms, and balcony using Machine Learning techniques.
+This project predicts house prices based on features such as location, total square feet, BHK, bathrooms, and balcony using Machine Learning techniques. 
 
 The project uses the Bengaluru Housing Dataset and implements data preprocessing, feature engineering, exploratory data analysis (EDA), model training, model comparison, and deployment using Streamlit.  
   
