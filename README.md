@@ -6,7 +6,7 @@ This project predicts house prices based on features such as location, total squ
 
 The project uses the Bengaluru Housing Dataset and implements data preprocessing, feature engineering, exploratory data analysis (EDA), model training, model comparison, and deployment using Streamlit.  
     
----   
+---    
   
 # 🚀 Features    
   
