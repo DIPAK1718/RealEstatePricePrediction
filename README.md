@@ -13,7 +13,7 @@ The project uses the Bengaluru Housing Dataset and implements data preprocessing
 * Data Cleaning & Preprocessing  
 * Exploratory Data Analysis (EDA)  
 * Missing Value Handling   
-* Outlier Detection & Removal   
+* Outlier Detection & Removal    
 * Feature Engineering   
 * One-Hot Encoding 
 * Machine Learning Model Training 
