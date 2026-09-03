@@ -8,7 +8,7 @@ The project uses the Bengaluru Housing Dataset and implements data preprocessing
     
 ---       
       
-# 🚀 Features     
+# 🚀 Features      
    
 * Data Cleaning & Preprocessing  
 * Exploratory Data Analysis (EDA)   
