@@ -18,7 +18,7 @@ The project uses the Bengaluru Housing Dataset and implements data preprocessing
 * One-Hot Encoding 
 * Machine Learning Model Training 
 * Model Comparison
-* Streamlit Web Application
+* Streamlit Web Application 
 * Real-Time House Price Prediction     
 
 ---
